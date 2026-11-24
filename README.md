@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+BallisticNG is a high speed, all thrills anti-gravity combat racer and open modding environment developed as a tribute to old school classics such as Wipeout, Rollcage and Jet Moto.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | OS X 10.14 and below only |
+| **Memory** | Min: 2 GB RAM / Rec: 4 GB RAM | 2 GB RAM |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | 3 GB available space | 3 GB available space |
+| **OS *** | Windows 7 or later (64-bit only) | Windows 7 or later (64-bit only) |
+| **VR Support** | SteamVR. Keyboard or gamepad required | SteamVR. Keyboard or gamepad required |
+| **Additional Notes** | OpenGL 3.2+ GPUs also supported. Mods will increase req… | Requires OpenGL 3.2+. Mods will increase required stora… |
 
 ---
 
